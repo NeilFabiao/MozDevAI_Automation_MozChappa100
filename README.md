@@ -61,7 +61,6 @@ Inclui:
 Os alunos acompanham ter 10min na criação do script de ingestão de dados e regras de qualidade:
 
 - remover valores negativos  
-- tratar valores nulos  
 - garantir consistência de IDs  
 - reforçar validação de métricas  
 
