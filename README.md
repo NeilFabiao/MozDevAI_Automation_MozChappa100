@@ -104,4 +104,10 @@ Os estudantes devem interpretar os dados e apresentar:
 
 Transformando dados brutos da MozChapa100 em **decisões inteligentes para o grupo MozBikes através de IA e automação**.
 
+### Who do I talk to? ###
+
+* Repo owner Neil Fabião -> @neilfabiao ✌🏾
+
+![](https://komarev.com/ghpvc/?username=mozdevsfinalai_automation&color=blue)
+
 
