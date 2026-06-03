@@ -108,6 +108,6 @@ Transformando dados brutos da MozChapa100 em **decisões inteligentes para o gru
 
 * Repo owner Neil Fabião -> @neilfabiao ✌🏾
 
-![](https://komarev.com/ghpvc/?username=mozdevsfinalai_automation&color=blue)
+![](https://komarev.com/ghpvc/?username=mozdevsfinalaiautomation&color=blue)
 
 
