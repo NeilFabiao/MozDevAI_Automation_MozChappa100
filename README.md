@@ -12,7 +12,7 @@ Este projeto simula o ecossistema de mobilidade urbana do grupo:
 
 👉 O objetivo é analisar dados operacionais reais de transporte e transformar esses dados em insights estratégicos.
 
-![img1](Dataset & Cleaning /img1.png)
+![image](Dataset%20%26%20Cleaning/img1.png)
 
 ---
 
