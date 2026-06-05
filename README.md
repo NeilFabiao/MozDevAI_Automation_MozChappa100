@@ -6,17 +6,6 @@
 
 ---
 
-## 🏢 Contexto da Empresa
-
-Este projeto simula o ecossistema de mobilidade urbana do grupo:
-
-- **MozBikes** → empresa principal de mobilidade e transporte  
-- **MozChapa100** → unidade operacional (transporte de passageiros / chapas)
-
-👉 O objetivo é analisar dados operacionais reais de transporte e transformar esses dados em insights estratégicos.
-
----
-
 ## 🎯 Pitch da Sessão
 
 A sessão começa com o **Excel como ponto de entrada dos dados**, explicando que na vida real os dados chegam de várias fontes e formatos, muitas vezes desorganizados.
