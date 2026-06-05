@@ -149,16 +149,33 @@ No final, NEIL e STELA conduzem a fase de insights conjunta. Os estudantes devem
 
 ## 🚀 Como Correr
 
-```bash
-# 1. Instalar dependências
-pip install jupysql pandas openpyxl
+1. **Descarregar o projecto**
+   Faz download da pasta do projecto e carrega-a para o teu **Google Drive**
+   (por exemplo em `Meu Drive/MozChapa100/`)
 
-# 2. Correr no Google Colab ou Jupyter
-# Abrir Exercício_Criar_Dataset_COM_PROMPT.ipynb  → gera os ficheiros Excel
-# Abrir Exercício_of_MozDev_Cleaning.ipynb        → pipeline completo
+2. **Abrir no Google Colab**
+   - Vai a [colab.research.google.com](https://colab.research.google.com)
+   - Clica em **Ficheiro → Abrir notebook → Google Drive**
+   - Navega até à pasta `MozChapa100/` e abre o notebook pretendido
 
-# 3. Abrir MozChapa100_Tutorial-Main.xlsx para o dashboard STELA
+3. **Ligar ao Drive (dentro do Colab)**
+   Corre esta célula no início do notebook:
+```python
+   from google.colab import drive
+   drive.mount('/content/drive')
 ```
+
+4. **Instalar dependências**
+```python
+   pip install jupysql pandas openpyxl
+```
+
+5. **Ordem de execução**
+   - `Exercício_Criar_Dataset_COM_PROMPT.ipynb` → gera os ficheiros Excel
+   - `Exercício_of_MozDev_Cleaning.ipynb` → pipeline completo
+
+6. **Dashboard Excel**
+   Abre `MozChapa100_Tutorial-Main.xlsx` no Excel ou Google Sheets
 
 ---
 ### 🙌 Agradecimentos
