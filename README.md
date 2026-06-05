@@ -69,16 +69,16 @@ Este notebook cria os 3 ficheiros Excel que alimentam o pipeline, injectando 3 t
 As 3 tabelas geradas seguem o seguinte esquema relacional:
 
 ```
-┌──────────────────┐     ┌───────────────────────────┐     ┌──────────────────┐
-│    SEGMENTOS     │     │          VENDAS           │     │      ROTAS       │
-├──────────────────┤     ├───────────────────────────┤     ├──────────────────┤
-│ ID_Segmento (PK) │◄────│ ID_Segmento (FK)          │     │ ID_Rota (PK)     │
-│ Tipo_Passageiro  │     │ ID_Rota (FK) ─────────────┼────►│ Origem           │
-│ Genero           │     │ Data                      │     │ Destino          │
-│ Faixa_Etaria     │     │ Forma_Pagamento ⚠️        │     │ Distancia_KM     │
+┌──────────────────┐     ┌───────────────────────────┐     ┌────────────────── ┐
+│    SEGMENTOS     │     │          VENDAS           │     │      ROTAS        │
+├──────────────────┤     ├───────────────────────────┤     ├────────────────── ┤
+│ ID_Segmento (PK) │◄────│ ID_Segmento (FK)          │     │ ID_Rota (PK)      │
+│ Tipo_Passageiro  │     │ ID_Rota (FK) ─────────────┼────►│ Origem            │
+│ Genero           │     │ Data                      │     │ Destino           │
+│ Faixa_Etaria     │     │ Forma_Pagamento ⚠️        │     │ Distancia_KM      │
 │ Total_Passageiros│     │ Bilhetes_Vendidos ⚠️      │     │ Viagens_Realizadas│
 │ Hora_Pico        │     │ Preco_Unitario_MZN ⚠️     │     │ Passageiros_Total │
-└──────────────────┘     └───────────────────────────┘     └──────────────────┘
+└──────────────────┘     └───────────────────────────┘     └────────────────── ┘
                                           ⚠️ = contém erros injectados
 ```
 
