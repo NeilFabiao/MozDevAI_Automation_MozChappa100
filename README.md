@@ -134,16 +134,6 @@ Responsável pela construção técnica: ingestão, SQL, limpeza, automação e 
 ### STELA — Data Analyst
 Responsável pela análise de negócio: dashboard Excel, análises Month-on-Month, top/bottom performers e insights estratégicos.
 
----
-
-## ⚡ Desafios Vibe Coding
-
-Os estudantes têm 2 desafios cronometrados onde usam IA como copiloto:
-
-| Desafio | Tempo | Objectivo |
-|---|---|---|
-| Script de ingestão | 10 min | Carregar 3 Excel para SQLite com regras de qualidade |
-| Queries de limpeza | 5 min | Detectar e corrigir os 3 tipos de erros com SQL |
 
 ---
 
