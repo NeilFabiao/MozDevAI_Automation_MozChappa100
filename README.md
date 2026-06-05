@@ -1,6 +1,9 @@
 # 🚀 Automação de Processos com IA e Scripts
 ## Do Excel ao Dashboard Inteligente (Vibe Coding)
 
+
+![image](Dataset%20%26%20Cleaning/img1.png)
+
 ---
 
 ## 🏢 Contexto da Empresa
@@ -11,8 +14,6 @@ Este projeto simula o ecossistema de mobilidade urbana do grupo:
 - **MozChapa100** → unidade operacional (transporte de passageiros / chapas)
 
 👉 O objetivo é analisar dados operacionais reais de transporte e transformar esses dados em insights estratégicos.
-
-![image](Dataset%20%26%20Cleaning/img1.png)
 
 ---
 
