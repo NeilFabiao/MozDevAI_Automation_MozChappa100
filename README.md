@@ -166,7 +166,7 @@ pip install jupysql pandas openpyxl
 Thank you to **Moz Devs** for this fun experience, and to @StellaZimba which I had the pleasure to present the solution.
 
 
-## 👤 Contacto
+### Who do I talk to? ###
 
 Repo owner: **Neil Fabião** → [@neilfabiao](https://github.com/neilfabiao) ✌🏾
 
