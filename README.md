@@ -129,7 +129,7 @@ O ficheiro Excel contém os dados operacionais limpos de Março 2026, com as seg
 ## 🧠 Oradores do Projecto
 
 ### NEIL — Pipeline Engineer
-Responsável pela construção técnica: ingestão, SQL, limpeza, automação e exportação dos dados.
+Responsável pela construção técnica: ingestão, SQL, limpeza, automação e manipulação dos dados para gerar insights estratégicos.
 
 ### STELA — Data Analyst
 Responsável pela análise de negócio: dashboard Excel, análises Month-on-Month, top/bottom performers e insights estratégicos.
