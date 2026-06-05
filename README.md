@@ -126,7 +126,7 @@ O ficheiro Excel contém os dados operacionais limpos de Março 2026, com as seg
 
 ---
 
-## 🧠 Personas do Projecto
+## 🧠 Oradores do Projecto
 
 ### NEIL — Pipeline Engineer
 Responsável pela construção técnica: ingestão, SQL, limpeza, automação e exportação dos dados.
