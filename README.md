@@ -55,7 +55,7 @@ Fazemos a **ingestão de 3 ficheiros diferentes**, simulando um cenário real de
 
 ## 📓 Notebooks — Guia de Conteúdo
 
-### Part 0 — `Exercício_Criar_Dataset_COM_PROMPT.ipynb`
+### Part 0 — `Exercício_of_MozDev_Cleaning.ipynb` — componente NEIL
 **Geração de dados simulados com erros propositados**
 
 Este notebook cria os 3 ficheiros Excel que alimentam o pipeline, injectando 3 tipos de erros para simular dados reais de sistemas POS, ERP ou formulários manuais.
@@ -84,7 +84,7 @@ As 3 tabelas geradas seguem o seguinte esquema relacional:
 
 ---
 
-### Part 1 — `Exercício_of_MozDev_Cleaning.ipynb`
+### Part 1 — `Exercício_Criar_Dataset_COM_PROMPT.ipynb` — componente NEIL
 **Ingestão → SQL → Detecção → Limpeza**
 
 Este notebook é o núcleo técnico do pipeline, estruturado em fases progressivas:
